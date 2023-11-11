@@ -1,0 +1,366 @@
+.home-screen,
+.home-screen * {
+  box-sizing: border-box;
+}
+.home-screen {
+  background: #fafafa;
+  border-radius: 15px;
+  width: 411px;
+  height: 823px;
+  position: relative;
+  overflow: hidden;
+}
+.good-afternoon-jacob-jones {
+  color: #363636;
+  text-align: left;
+  position: absolute;
+  left: 19px;
+  top: 63px;
+  width: 203px;
+}
+.good-afternoon-jacob-jones-span {
+  color: #363636;
+  font: 700 22px "Roboto", sans-serif;
+}
+.good-afternoon-jacob-jones-span2 {
+  color: #363636;
+  font: 500 16px "Roboto", sans-serif;
+}
+.group-196 {
+  position: absolute;
+  inset: 0;
+}
+.welcome-to {
+  color: #363636;
+  text-align: left;
+  font: 900 30px "Roboto", sans-serif;
+  position: absolute;
+  left: 19px;
+  top: 137px;
+  width: 228px;
+  height: 39px;
+}
+.smart-shopping-cart {
+  text-align: left;
+  font: 400 18px "Roboto", sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 176px;
+}
+.smart-shopping-cart-span {
+  color: #000000;
+  font: 400 18px "Roboto", sans-serif;
+}
+.smart-shopping-cart-span2 {
+  color: #f08f5f;
+  font: 400 18px "Roboto", sans-serif;
+}
+.smart-shopping-cart-span3 {
+  color: #000000;
+  font: 400 18px "Roboto", sans-serif;
+}
+.group-172 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-46 {
+  background: #f7efee;
+  border-radius: 16px;
+  width: 158.16px;
+  height: 176.82px;
+  position: absolute;
+  left: 31px;
+  top: 341px;
+}
+.group-171 {
+  width: 100px;
+  height: 104px;
+  position: static;
+}
+.scan-a-product {
+  color: #363636;
+  text-align: left;
+  font: 500 14px "Roboto", sans-serif;
+  position: absolute;
+  left: 59px;
+  top: 441px;
+}
+._384-scanner {
+  color: #82a6b0;
+  text-align: left;
+  font: 700 10px "Roboto", sans-serif;
+  position: absolute;
+  left: 79px;
+  top: 469px;
+}
+.group-162 {
+  position: absolute;
+  left: 82px;
+  top: 377px;
+  overflow: visible;
+}
+.group-175 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-47 {
+  background: #f7efee;
+  border-radius: 16px;
+  width: 334px;
+  height: 176.82px;
+  position: absolute;
+  left: 31px;
+  top: 530px;
+}
+.bottombar {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-3 {
+  background: #ffffff;
+  border-radius: 40px 40px 0px 0px;
+  width: 414px;
+  height: 118px;
+  position: absolute;
+  left: 0px;
+  top: 743px;
+  box-shadow: 0px -7px 104px -20px rgba(0, 0, 0, 0.2);
+}
+.group-180 {
+  position: absolute;
+  left: 245.85px;
+  top: 775px;
+  overflow: visible;
+}
+.group-181 {
+  position: absolute;
+  left: 337px;
+  top: 775px;
+  overflow: visible;
+}
+.vector7 {
+  position: absolute;
+  left: 154px;
+  top: 776px;
+  overflow: visible;
+}
+.group-179 {
+  width: 47px;
+  height: 47px;
+  position: static;
+}
+.rectangle-35 {
+  background: rgba(208, 237, 251, 0.8);
+  border-radius: 11px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+  left: 47px;
+  top: 767px;
+}
+.group-152 {
+  position: absolute;
+  left: 58px;
+  top: 776px;
+  overflow: visible;
+}
+.system-bar {
+  width: 375px;
+  height: 44px;
+  position: absolute;
+  left: 27px;
+  top: 0px;
+}
+.group {
+  position: absolute;
+  inset: 0;
+}
+.battery {
+  position: absolute;
+  left: 336.33px;
+  top: 17.33px;
+  overflow: visible;
+}
+.wifi {
+  position: absolute;
+  left: 316px;
+  top: 17.33px;
+  overflow: visible;
+}
+.cellular-connection {
+  position: absolute;
+  left: 294px;
+  top: 17.67px;
+  overflow: visible;
+}
+.starus {
+  width: 54px;
+  height: 21px;
+  position: absolute;
+  left: -15px;
+  top: 12px;
+}
+.time {
+  color: #000000;
+  text-align: center;
+  font: 600 14px/16px "SF Pro Display", sans-serif;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: calc(50% - 7.5px);
+}
+.time-span {
+  color: #000000;
+  font: 600 14px/16px "SF Pro Display", sans-serif;
+}
+.time-span2 {
+  color: #000000;
+  font: 600 14px/16px "SF Pro Display", sans-serif;
+}
+.group-174 {
+  position: absolute;
+  inset: 0;
+}
+.products-purchased {
+  color: #363636;
+  text-align: left;
+  font: 500 16px "Roboto", sans-serif;
+  position: absolute;
+  left: 119px;
+  top: 631.44px;
+}
+._164-purchases {
+  color: #82a6b0;
+  text-align: left;
+  font: 700 10px "Roboto", sans-serif;
+  position: absolute;
+  left: 169px;
+  top: 659.44px;
+}
+.group-164 {
+  width: 55px;
+  height: 55px;
+  position: static;
+}
+.rectangle-332 {
+  background: #cce7e5;
+  border-radius: 16px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  left: 168px;
+  top: 564.44px;
+}
+.group-158 {
+  position: absolute;
+  left: 182px;
+  top: 578.44px;
+  overflow: visible;
+}
+.group-210 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-48 {
+  background: #f7efee;
+  border-radius: 16px;
+  width: 158.16px;
+  height: 176.82px;
+  position: absolute;
+  left: 209px;
+  top: 341px;
+}
+.receipt-tax-invoice {
+  color: #363636;
+  text-align: left;
+  font: 500 14px "Roboto", sans-serif;
+  position: absolute;
+  left: 222px;
+  top: 441px;
+}
+._23-detected {
+  color: #82a6b0;
+  text-align: left;
+  font: 700 10px "Roboto", sans-serif;
+  position: absolute;
+  left: 257px;
+  top: 469px;
+}
+.rectangle-50 {
+  background: #f6e3db;
+  border-radius: 16px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  left: 261px;
+  top: 377px;
+}
+.icon-park-outline-bill {
+  position: absolute;
+  left: 269px;
+  top: 386px;
+  overflow: visible;
+}
+.ellipse {
+  background: linear-gradient(to left, #ffdbb8, #ffdbb8);
+  border-radius: 50%;
+  width: 59px;
+  height: 59px;
+  position: absolute;
+  left: 304px;
+  top: 46px;
+}
+.group-211 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-462 {
+  background: #f7efee;
+  border-radius: 16px;
+  width: 334px;
+  height: 109px;
+  position: absolute;
+  left: 31px;
+  top: 219px;
+}
+.group-2283 {
+  width: 46px;
+  height: 7.54px;
+  position: static;
+}
+.ellipse-98 {
+  background: #fb7185;
+  border-radius: 50%;
+  width: 7.54px;
+  height: 7.54px;
+  position: absolute;
+  left: 176px;
+  top: 306px;
+}
+.ellipse-99 {
+  background: rgba(251, 113, 133, 0.5);
+  border-radius: 50%;
+  width: 7.54px;
+  height: 7.54px;
+  position: absolute;
+  left: 188.82px;
+  top: 306px;
+}
+.ellipse-100 {
+  background: rgba(251, 113, 133, 0.5);
+  border-radius: 50%;
+  width: 7.54px;
+  height: 7.54px;
+  position: absolute;
+  left: 201.64px;
+  top: 306px;
+}
+.ellipse-101 {
+  background: rgba(251, 113, 133, 0.5);
+  border-radius: 50%;
+  width: 7.54px;
+  height: 7.54px;
+  position: absolute;
+  left: 214.46px;
+  top: 306px;
+}

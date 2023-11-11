@@ -1,0 +1,120 @@
+.scan-screen,
+.scan-screen * {
+  box-sizing: border-box;
+}
+.scan-screen {
+  background: #fafafa;
+  border-radius: 15px;
+  width: 411px;
+  height: 823px;
+  position: relative;
+  overflow: hidden;
+}
+.group-182 {
+  position: absolute;
+  left: 16px;
+  top: 62px;
+  overflow: visible;
+}
+.system-bar {
+  width: 375px;
+  height: 44px;
+  position: absolute;
+  left: 18px;
+  top: 0px;
+}
+.group {
+  position: absolute;
+  inset: 0;
+}
+.battery {
+  position: absolute;
+  left: 336.33px;
+  top: 17.33px;
+  overflow: visible;
+}
+.wifi {
+  position: absolute;
+  left: 316px;
+  top: 17.33px;
+  overflow: visible;
+}
+.cellular-connection {
+  position: absolute;
+  left: 294px;
+  top: 17.67px;
+  overflow: visible;
+}
+.starus {
+  width: 54px;
+  height: 21px;
+  position: absolute;
+  left: -15px;
+  top: 12px;
+}
+.time {
+  color: #000000;
+  text-align: center;
+  font: 600 14px/16px "SF Pro Display", sans-serif;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: calc(50% - 7.5px);
+}
+.time-span {
+  color: #000000;
+  font: 600 14px/16px "SF Pro Display", sans-serif;
+}
+.time-span2 {
+  color: #000000;
+  font: 600 14px/16px "SF Pro Display", sans-serif;
+}
+.healthy-food-background-2 {
+  width: 720.91px;
+  height: 420.0px;
+  position: absolute;
+  left: 1.14px;
+  top: 830.41px;
+  transform-origin: 0 0;
+  transform: rotate(-90.488deg) scale(1, 1);
+}
+.group-185 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-26 {
+  background: rgba(187, 187, 187, 0.5);
+  border-radius: 0px 0px 35px 36px;
+  width: 306.39px;
+  height: 270.85px;
+  position: absolute;
+  left: 52.07px;
+  top: 386.93px;
+}
+.group-5 {
+  position: absolute;
+  left: 51px;
+  top: 160px;
+  overflow: visible;
+}
+.group-191 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-53 {
+  background: #5a6cf3;
+  border-radius: 16px;
+  width: 335px;
+  height: 62px;
+  position: absolute;
+  left: 41px;
+  top: 717px;
+}
+.go-to-shopping-cart {
+  color: #ffffff;
+  text-align: left;
+  font: 700 18px "Roboto", sans-serif;
+  position: absolute;
+  left: 117px;
+  top: 737px;
+}

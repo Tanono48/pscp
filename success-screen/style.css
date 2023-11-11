@@ -1,0 +1,225 @@
+.successful-payment-screen,
+.successful-payment-screen * {
+  box-sizing: border-box;
+}
+.successful-payment-screen {
+  background: #fafafa;
+  border-radius: 15px;
+  width: 411px;
+  height: 823px;
+  position: relative;
+  overflow: hidden;
+}
+.group-191 {
+  position: absolute;
+  inset: 0;
+}
+.vector {
+  position: absolute;
+  left: 381.89px;
+  top: -144.32px;
+  overflow: visible;
+}
+.mobile-money {
+  color: #3a3c3f;
+  text-align: left;
+  font: 700 18px "Roboto", sans-serif;
+  position: absolute;
+  left: calc(50% - -184.07px);
+  top: -149.64px;
+  width: 58.27px;
+  height: 10.64px;
+}
+.group {
+  position: absolute;
+  left: 380.95px;
+  top: -149.64px;
+  overflow: visible;
+}
+.group-182 {
+  position: absolute;
+  left: 19px;
+  top: 62px;
+  overflow: visible;
+}
+.group-208 {
+  position: absolute;
+  left: 19px;
+  top: 62px;
+  overflow: visible;
+}
+.group-194 {
+  position: absolute;
+  inset: 0;
+}
+.successful-payment {
+  color: #363636;
+  text-align: left;
+  font: 700 18px "Roboto", sans-serif;
+  position: absolute;
+  left: 119px;
+  top: 476px;
+}
+.we-will-send-you-the-details-from-the-order-to-your-email-address-after-successful-payment {
+  color: #7a7a7a;
+  text-align: center;
+  font: 400 14px "Roboto", sans-serif;
+  position: absolute;
+  left: 83px;
+  top: 514px;
+}
+.group-195 {
+  width: 334px;
+  height: 62px;
+  position: static;
+}
+.rectangle-54 {
+  background: #5a6cf3;
+  border-radius: 16px;
+  width: 334px;
+  height: 62px;
+  position: absolute;
+  left: 39px;
+  top: 609px;
+}
+.download-receipt {
+  color: #ffffff;
+  text-align: left;
+  font: 700 18px "Roboto", sans-serif;
+  position: absolute;
+  left: 140px;
+  top: 629px;
+}
+.icon-park-outline-correct {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 206px;
+  top: 929px;
+  overflow: hidden;
+}
+.system-bar {
+  width: 375px;
+  height: 44px;
+  position: absolute;
+  left: 19px;
+  top: 0px;
+}
+.group2 {
+  position: absolute;
+  inset: 0;
+}
+.battery {
+  position: absolute;
+  left: 336.33px;
+  top: 17.33px;
+  overflow: visible;
+}
+.wifi {
+  position: absolute;
+  left: 316px;
+  top: 17.33px;
+  overflow: visible;
+}
+.cellular-connection {
+  position: absolute;
+  left: 294px;
+  top: 17.67px;
+  overflow: visible;
+}
+.starus {
+  width: 54px;
+  height: 21px;
+  position: absolute;
+  left: -15px;
+  top: 12px;
+}
+.time {
+  color: #000000;
+  text-align: center;
+  font: 600 14px/16px "SF Pro Display", sans-serif;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: calc(50% - 7.5px);
+}
+.time-span {
+  color: #000000;
+  font: 600 14px/16px "SF Pro Display", sans-serif;
+}
+.time-span2 {
+  color: #000000;
+  font: 600 14px/16px "SF Pro Display", sans-serif;
+}
+.group-2284 {
+  position: absolute;
+  inset: 0;
+}
+.group-207 {
+  width: 207px;
+  height: 207px;
+  position: static;
+}
+.ellipse-20 {
+  position: absolute;
+  left: 103px;
+  top: 222px;
+  overflow: visible;
+}
+.group-201 {
+  width: 188px;
+  height: 188px;
+  position: static;
+}
+.group-202 {
+  width: 188px;
+  height: 188px;
+  position: static;
+}
+.ellipse-202 {
+  position: absolute;
+  left: 113px;
+  top: 231px;
+  overflow: visible;
+}
+.icon-park-solid-correct {
+  width: 121px;
+  height: 121px;
+  position: absolute;
+  left: 147.95px;
+  top: 263px;
+  transform-origin: 0 0;
+  transform: rotate(1.399deg) scale(1, 1);
+  overflow: hidden;
+}
+.mask-group {
+  position: absolute;
+  inset: 0;
+}
+.group3 {
+  position: absolute;
+  left: 10.08px;
+  top: 22.69px;
+  overflow: visible;
+}
+.vector10 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.group-2022 {
+  width: 136.44px;
+  height: 136.44px;
+  position: static;
+}
+.icon-park-solid-correct2 {
+  width: 133.23px;
+  height: 133.23px;
+  position: absolute;
+  left: 141.49px;
+  top: 257.23px;
+  transform-origin: 0 0;
+  transform: rotate(1.399deg) scale(1, 1);
+  overflow: hidden;
+}
