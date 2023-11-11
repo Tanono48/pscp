@@ -37,6 +37,7 @@
   overflow: visible;
 }
 .group-182 {
+  z-index: 99;
   position: absolute;
   left: 16px;
   top: 62px;
@@ -124,24 +125,28 @@
   box-shadow: 0px -7px 104px -20px rgba(0, 0, 0, 0.2);
 }
 .group-180 {
+  z-index: 99;
   position: absolute;
   left: 243.85px;
   top: 773px;
   overflow: visible;
 }
 .group-181 {
+  z-index: 99;
   position: absolute;
   left: 324px;
   top: 762px;
   overflow: visible;
 }
 .vector15 {
+  z-index: 99;
   position: absolute;
   left: 152px;
   top: 774px;
   overflow: visible;
 }
 .group-179 {
+  z-index: 99;
   width: 25px;
   height: 25px;
   position: static;

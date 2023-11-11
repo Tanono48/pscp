@@ -11,6 +11,7 @@
   overflow: hidden;
 }
 .group-182 {
+  z-index: 99;
   position: absolute;
   left: 16px;
   top: 62px;
@@ -40,29 +41,34 @@
   top: 761px;
 }
 .group-209 {
+  z-index : 99;
   position: absolute;
   left: 244.85px;
   top: 770px;
   overflow: visible;
 }
 .group-154 {
+  z-index : 99;
   position: absolute;
   left: 338px;
   top: 772px;
   overflow: visible;
 }
 .vector6 {
+  z-index: 99;
   position: absolute;
   left: 155px;
   top: 773px;
   overflow: visible;
 }
 .group-179 {
+  z-index : 99;
   width: 25px;
   height: 25px;
   position: static;
 }
 .group-152 {
+  z-index : 99;
   position: absolute;
   left: 59px;
   top: 773px;

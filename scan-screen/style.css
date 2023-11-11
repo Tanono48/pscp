@@ -11,6 +11,7 @@
   overflow: hidden;
 }
 .group-182 {
+  z-index: 99;
   position: absolute;
   left: 16px;
   top: 62px;
@@ -98,10 +99,12 @@
   overflow: visible;
 }
 .group-191 {
+  z-index: 99;
   position: absolute;
   inset: 0;
 }
 .rectangle-53 {
+  z-index: 99;
   background: #5a6cf3;
   border-radius: 16px;
   width: 335px;
@@ -111,6 +114,7 @@
   top: 717px;
 }
 .go-to-shopping-cart {
+  z-index: 99;
   color: #ffffff;
   text-align: left;
   font: 700 18px "Roboto", sans-serif;

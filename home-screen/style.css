@@ -60,6 +60,7 @@
   font: 400 18px "Roboto", sans-serif;
 }
 .group-172 {
+  z-index: 99;
   position: absolute;
   inset: 0;
 }
@@ -127,18 +128,21 @@
   box-shadow: 0px -7px 104px -20px rgba(0, 0, 0, 0.2);
 }
 .group-180 {
+  z-index : 99;
   position: absolute;
   left: 245.85px;
   top: 775px;
   overflow: visible;
 }
 .group-181 {
+  z-index : 99;
   position: absolute;
   left: 337px;
   top: 775px;
   overflow: visible;
 }
 .vector7 {
+  z-index : 99;
   position: absolute;
   left: 154px;
   top: 776px;
@@ -159,6 +163,7 @@
   top: 767px;
 }
 .group-152 {
+  z-index : 99;
   position: absolute;
   left: 58px;
   top: 776px;
@@ -252,6 +257,7 @@
   top: 564.44px;
 }
 .group-158 {
+  z-index: 99;
   position: absolute;
   left: 182px;
   top: 578.44px;
