@@ -181,10 +181,16 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
+  padding-bottom: 200px;
   position: absolute;
   inset: 0;
 }
 
+@media screen and (max-width: 600px) {
+  .group-2284 {
+    flex-direction: column; /* Stack items vertically on small screens */
+  }
+}
 .group-207 {
   width: 207px;
   height: 207px;
